@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "translator": null,
+    "publisher": "Scribner",
+    "edition": "First Edition",
+    "publication_year": 1925,
+    "isbn": "978-0-7432-7356-5",
+    "genre": "Fiction",
+    "number_of_pages": 180,
+    "language": "English",
+    "country": "United States",
+    "ratings": 4.5,
+    "reviews": 1200,
+    "availability": {
+      "hard_copy": true,
+      "pdf": false,
+      "ebook": true
+    },
+    "user_ratings": [
+      {
+        "username": "reader123",
+        "rating": 5,
+        "review": "An American classic that beautifully captures the Jazz Age.",
+        "date": "2023-08-22"
+      },
+      {
+        "username": "booklover22",
+        "rating": 4,
+        "review": "Loved the narrative, but the ending left me wanting more.",
+        "date": "2023-08-20"
+      }
+    ],
+    "qna": [
+      {
+        "question": "Is this book suitable for young adults?",
+        "answer": "Yes, this book is often recommended for young adult readers due to its themes and engaging storytelling."
+      },
+      {
+        "question": "Are there any movie adaptations of this book?",
+        "answer": "Yes, 'The Great Gatsby' has been adapted into multiple films over the years, with the most well-known version released in 2013."
+      }
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/71FTb9X6wsL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "translator": null,
+    "publisher": "HarperCollins",
+    "edition": "50th Anniversary Edition",
+    "publication_year": 1960,
+    "isbn": "978-0-06-112008-4",
+    "genre": "Fiction",
+    "number_of_pages": 336,
+    "language": "English",
+    "country": "United States",
+    "ratings": 4.8,
+    "reviews": 1500,
+    "availability": {
+      "hard_copy": true,
+      "pdf": true,
+      "ebook": true
+    },
+    "user_ratings": [
+      {
+        "username": "avidreader",
+        "rating": 5,
+        "review": "A timeless masterpiece that tackles important issues.",
+        "date": "2023-08-21"
+      },
+      {
+        "username": "novelenthusiast",
+        "rating": 4,
+        "review": "The characters are so well-developed, it's like they're real people.",
+        "date": "2023-08-19"
+      }
+    ],
+    "qna": [
+      {
+        "question": "What age group is this book suitable for?",
+        "answer": "This book is commonly recommended for readers in their mid-teens and older, but its themes make it enjoyable for a wide range of ages."
+      },
+      {
+        "question": "Does the book differ significantly from the movie adaptation?",
+        "answer": "While the movie adaptation captures the essence of the book, some details and nuances may be more fully explored in the book."
+      }
+    ],
+    "image_url": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "translator": null,
+    "publisher": "Signet Classics",
+    "edition": "Reprint",
+    "publication_year": 1949,
+    "isbn": "978-0-452-28423-4",
+    "genre": "Science Fiction",
+    "number_of_pages": 328,
+    "language": "English",
+    "country": "United Kingdom",
+    "ratings": 4.3,
+    "reviews": 900,
+    "availability": {
+      "hard_copy": true,
+      "pdf": true,
+      "ebook": false
+    },
+    "user_ratings": [
+      {
+        "username": "dystopiandreamer",
+        "rating": 4,
+        "review": "Orwell's cautionary tale feels relevant even today.",
+        "date": "2023-08-22"
+      },
+      {
+        "username": "literarycritic",
+        "rating": 3,
+        "review": "A thought-provoking novel, but the pacing could have been better.",
+        "date": "2023-08-20"
+      }
+    ],
+    "qna": [
+      {
+        "question": "Is this book part of a series?",
+        "answer": "No, '1984' is a standalone novel by George Orwell."
+      },
+      {
+        "question": "What inspired the author to write this dystopian novel?",
+        "answer": "Orwell's concerns about totalitarianism, government surveillance, and the erosion of individual freedoms played a significant role in inspiring '1984.'"
+      }
+    ],
+    "image_url": "https://i.pinimg.com/1200x/0d/2c/09/0d2c0915b3c86c8ac0680f3f6c88731d.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "translator": null,
+    "publisher": "Penguin Classics",
+    "edition": "Revised Edition",
+    "publication_year": 1813,
+    "isbn": "978-0-14-143951-8",
+    "genre": "Romance",
+    "number_of_pages": 432,
+    "language": "English",
+    "country": "United Kingdom",
+    "ratings": 4.6,
+    "reviews": 1100,
+    "availability": {
+      "hard_copy": true,
+      "pdf": false,
+      "ebook": true
+    },
+    "user_ratings": [
+      {
+        "username": "romancelover",
+        "rating": 5,
+        "review": "A delightful romance novel with memorable characters.",
+        "date": "2023-08-21"
+      },
+      {
+        "username": "classiclitfan",
+        "rating": 4,
+        "review": "Austen's wit shines through in this timeless tale.",
+        "date": "2023-08-19"
+      }
+    ],
+    "qna": [
+      {
+        "question": "Is this a standalone novel or part of a series?",
+        "answer": "This is a standalone novel by Jane Austen."
+      },
+      {
+        "question": "Is knowledge of the time period necessary to enjoy the book?",
+        "answer": "While some understanding of the Regency era enhances the reading experience, the themes and characters are relatable to modern readers as well."
+      }
+    ],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596042032039-IN7LLXRVDKGVC854LVHE/9780241375273.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "translator": null,
+    "publisher": "Mariner Books",
+    "edition": "75th Anniversary Edition",
+    "publication_year": 1937,
+    "isbn": "978-0-618-26030-0",
+    "genre": "Fantasy",
+    "number_of_pages": 310,
+    "language": "English",
+    "country": "United Kingdom",
+    "ratings": 4.9,
+    "reviews": 1800,
+    "availability": {
+      "hard_copy": true,
+      "pdf": true,
+      "ebook": true
+    },
+    "user_ratings": [
+      {
+        "username": "fantasylover",
+        "rating": 5,
+        "review": "Tolkien's world-building is unparalleled. A must-read for fantasy enthusiasts.",
+        "date": "2023-08-22"
+      },
+      {
+        "username": "adventureseeker",
+        "rating": 5,
+        "review": "An epic journey that sparks the imagination.",
+        "date": "2023-08-21"
+      }
+    ],
+    "qna": [
+      {
+        "question": "Is 'The Hobbit' a prequel to 'The Lord of the Rings'?",
+        "answer": "Yes, 'The Hobbit' is a prequel to J.R.R. Tolkien's later work, 'The Lord of the Rings.'"
+      },
+      {
+        "question": "Can this book be enjoyed by readers new to fantasy?",
+        "answer": "Absolutely! 'The Hobbit' is a fantastic introduction to the fantasy genre."
+      }
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+  }
+]

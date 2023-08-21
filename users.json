@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "username": "booklover123",
+    "email": "booklover123@example.com",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "membershipStatus": "active",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Exampleville",
+      "state": "CA",
+      "zipCode": "12345"
+    },
+    "borrowedBooks": [
+      {
+        "title": "The Great Gatsby",
+        "dueDate": "2023-09-15",
+        "overdue": false
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "dueDate": "2023-09-10",
+        "overdue": true
+      }
+    ],
+    "fines": 15.75,
+    "profileImage": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg"
+  },
+  {
+    "id": 2,
+    "username": "avidreader456",
+    "email": "avidreader456@example.com",
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "membershipStatus": "suspended",
+    "phone": "987-654-3210",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Booktown",
+      "state": "NY",
+      "zipCode": "54321"
+    },
+    "borrowedBooks": [
+      {
+        "title": "1984",
+        "dueDate": "2023-08-25",
+        "overdue": true
+      }
+    ],
+    "fines": 10.25,
+    "profileImage": "https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg"
+  },
+  {
+    "id": 3,
+    "username": "libraryfan789",
+    "email": "libraryfan789@example.com",
+    "firstName": "Carol",
+    "lastName": "Williams",
+    "membershipStatus": "active",
+    "phone": "555-123-4567",
+    "address": {
+      "street": "789 Oak Ave",
+      "city": "Reader City",
+      "state": "TX",
+      "zipCode": "67890"
+    },
+    "borrowedBooks": [],
+    "fines": 0,
+    "profileImage": "https://imgv3.fotor.com/images/gallery/a-man-profile-picture-with-blue-and-green-background-made-by-LinkedIn-Profile-Picture-Maker.jpg"
+  },
+  {
+    "id": 4,
+    "username": "historybuff",
+    "email": "historybuff@example.com",
+    "firstName": "David",
+    "lastName": "Brown",
+    "membershipStatus": "active",
+    "phone": "111-222-3333",
+    "address": {
+      "street": "789 Pine Ln",
+      "city": "Historyville",
+      "state": "PA",
+      "zipCode": "45678"
+    },
+    "borrowedBooks": [
+      {
+        "title": "A People's History of the United States",
+        "dueDate": "2023-09-05",
+        "overdue": true
+      }
+    ],
+    "fines": 5.5,
+    "profileImage": "https://wisehealthynwealthy.com/wp-content/uploads/2022/01/CreativecaptionsforFacebookprofilepictures.jpg"
+  },
+  {
+    "id": 5,
+    "username": "sciencenerd",
+    "email": "sciencenerd@example.com",
+    "firstName": "Eleanor",
+    "lastName": "Green",
+    "membershipStatus": "active",
+    "phone": "444-555-6666",
+    "address": {
+      "street": "101 Scientist Way",
+      "city": "Sciencetown",
+      "state": "CA",
+      "zipCode": "98765"
+    },
+    "borrowedBooks": [
+      {
+        "title": "Cosmos",
+        "dueDate": "2023-09-20",
+        "overdue": false
+      }
+    ],
+    "fines": 0,
+    "profileImage": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/social-media-profile-photos-3.jpg"
+  },
+  {
+    "id": 6,
+    "username": "mysterylover",
+    "email": "mysterylover@example.com",
+    "firstName": "Frank",
+    "lastName": "White",
+    "membershipStatus": "active",
+    "phone": "777-888-9999",
+    "address": {
+      "street": "555 Clue St",
+      "city": "Mysteryville",
+      "state": "IL",
+      "zipCode": "54321"
+    },
+    "borrowedBooks": [],
+    "fines": 0,
+    "profileImage": "https://leadership.ng/wp-content/uploads/2023/03/davido.png"
+  },
+  {
+    "id": 7,
+    "username": "fictionreader",
+    "email": "fictionreader@example.com",
+    "firstName": "Grace",
+    "lastName": "Robinson",
+    "membershipStatus": "active",
+    "phone": "222-333-4444",
+    "address": {
+      "street": "777 Story Rd",
+      "city": "Fictionville",
+      "state": "NY",
+      "zipCode": "12345"
+    },
+    "borrowedBooks": [
+      {
+        "title": "The Alchemist",
+        "dueDate": "2023-08-30",
+        "overdue": true
+      }
+    ],
+    "fines": 7.25,
+    "profileImage": "https://pbs.twimg.com/profile_images/1485050791488483328/UNJ05AV8_400x400.jpg"
+  },
+  {
+    "id": 8,
+    "username": "techgeek",
+    "email": "techgeek@example.com",
+    "firstName": "Henry",
+    "lastName": "Miller",
+    "membershipStatus": "active",
+    "phone": "888-999-0000",
+    "address": {
+      "street": "123 Tech Blvd",
+      "city": "Techtown",
+      "state": "CA",
+      "zipCode": "54321"
+    },
+    "borrowedBooks": [
+      {
+        "title": "The Innovators",
+        "dueDate": "2023-09-12",
+        "overdue": false
+      }
+    ],
+    "fines": 0,
+    "profileImage": "https://www.poornima.edu.in/wp-content/uploads/2022/06/Rajesh-e1654063757415.jpg"
+  },
+  {
+    "id": 9,
+    "username": "travelenthusiast",
+    "email": "travelenthusiast@example.com",
+    "firstName": "Isabel",
+    "lastName": "Young",
+    "membershipStatus": "active",
+    "phone": "111-222-3333",
+    "address": {
+      "street": "555 Wanderlust Ave",
+      "city": "Travelville",
+      "state": "CO",
+      "zipCode": "67890"
+    },
+    "borrowedBooks": [
+      {
+        "title": "Into the Wild",
+        "dueDate": "2023-08-28",
+        "overdue": true
+      }
+    ],
+    "fines": 8.75,
+    "profileImage": "https://faaduindia.com/wp-content/uploads/2023/05/rodo.jpg"
+  },
+  {
+    "id": 10,
+    "username": "classicslover",
+    "email": "classicslover@example.com",
+    "firstName": "James",
+    "lastName": "Anderson",
+    "membershipStatus": "active",
+    "phone": "555-666-7777",
+    "address": {
+      "street": "789 Classic Rd",
+      "city": "Literaryville",
+      "state": "MA",
+      "zipCode": "01234"
+    },
+    "borrowedBooks": [
+      {
+        "title": "Pride and Prejudice",
+        "dueDate": "2023-09-08",
+        "overdue": false
+      }
+    ],
+    "fines": 0,
+    "profileImage": "https://d1r8m46oob3o9u.cloudfront.net/images/home/test-box/04.jpg"
+  }
+]
